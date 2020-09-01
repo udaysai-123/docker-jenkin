@@ -9,6 +9,7 @@ public class SpringbootDockerJenkinsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootDockerJenkinsApplication.class, args);
 		System.out.println("hi");
+		System.out.println("go to jenkins");
 	}
 
 }
